@@ -1,7 +1,7 @@
 # Hi, I'm Alex Mateo  👋🏾‍💻
 
 <!-- <img src=""> -->
-I'm a software developer student who is passionate about making web more accessible.
+I'm a software developer who is passionate about making web more accessible.
 
 
 ## Find me around the web 🌎:
